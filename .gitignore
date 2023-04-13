@@ -1,4 +1,11 @@
 venv
+<<<<<<< Updated upstream
 Aptfile
 runtime.txt
 requirements.txt
+=======
+
+
+
+runtime.txt 
+>>>>>>> Stashed changes
